@@ -23,6 +23,9 @@ _Paris_
 `Déc 2021` __Formation Udo Tools__  
 _Paris_
 
+`Déc 2021` __Cours M2 LEAD__ Law, Entrepreneurship and Digital  
+Université Paris-Saclay, _Paris_  
+
 `2018 - 2021`  __Licence de mathématiques option informatique__  
 UCA, _Clermont-Ferrand_
 
@@ -38,7 +41,7 @@ Lycée Mme de Staël, _Montluçon_
 `Janv - Mai 2022`  __Alegria.tech__, _Paris_  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
-`Août 2021 - Juin 2022` __Student Pop__, Paris. Missions ponctuelles :
+`Août 2021 - Juin 2022` __Student Pop__, Paris. Missions ponctuelles :  
 - Inventaire pour _Belive_ IA stocking  
 - Tests Covid dans les maternelles/primaires pour _Eurofins_  
 - Distribution de Flyers pour _Dejbox_  
