@@ -5,8 +5,11 @@ title: Aimen Bensetti's CV
 ---
 # Bensetti Aimen
 Computer science student  
- <img src="https://user-images.githubusercontent.com/85625233/189498785-4545d873-f492-4b78-801f-5eee5e476c17.jpg" width=20% height=20% >
 
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 ## Currently
 
 Studying at 42 Paris
@@ -16,14 +19,14 @@ Studying at 42 Paris
 `2021 - Aujourd'hui`  __Cursus commun 42__     
 42, _Paris_
 
-`Février 2022` __Cambridge C2 Anglais__   
+`Fév 2022` __Cambridge C2 Anglais__   
 _Paris_
 
-`Décembre 2021` __Formation Udo Tools__  
+`Déc 2021` __Formation Udo Tools__  
 _Paris_
 
 `2018 - 2021`  __Licence de mathématiques option informatique__  
-UCA, Clermont-Ferrand
+UCA, _Clermont-Ferrand_
 
 `2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
 Lycée Blaise Pascal, _Clermont-Ferrand_
