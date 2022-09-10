@@ -37,7 +37,7 @@ Lycée Mme de Staël, Montluçon
 `Janv - Mai 2022`  _Alegria.tech_, Paris  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
-`Août 2021 - Juin 2022` _Student Pop_, Paris.  
+`Août 2021 - Juin 2022` _Student Pop_, Paris. Missions ponctuelles :
 - Inventaire pour __Belive__ IA stocking  
 - Tests Covid dans les maternelles/primaires pour __Eurofins__  
 - Distribution de Flyers pour __Dejbox__  
@@ -65,7 +65,7 @@ Médiation Covid
 
 ## Langues
 
-`Anglais` _Cambridge C2_, Paris
+`Anglais` _Cambridge_ _C2_, Paris
 Niveau bilingue écrit comme oral.
 
 `Espagnol` *En apprentissage*  
