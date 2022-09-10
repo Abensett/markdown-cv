@@ -12,8 +12,8 @@ Studying at 42 Paris
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`1654-1660` Lycée Mme de Staël, Montluçon  
+__Baccalauréat Série S__ mention Très Bien Euro-anglais. Option Informatique et science du numérique. Montluçon.
 
 `June 1661 - now`
 __Trinity College, Cambridge__
