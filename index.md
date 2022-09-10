@@ -23,7 +23,7 @@ _Paris_
 `Déc 2021` __Formation Udo Tools__  
 _Paris_
 
-`2021 - 2022` __Cours M2 LEAD__ Law, Entrepreneurship and Digital  
+`2021` __Cours M2 LEAD__ Law, Entrepreneurship and Digital  
 Université Paris-Saclay, _Paris_  
 
 `2018 - 2021`  __Licence de mathématiques option informatique__  
