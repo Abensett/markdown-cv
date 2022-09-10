@@ -12,10 +12,6 @@ Etudiant en informatique à 42
  <a href="https://github.com/Abensett">Github</a>
 </div>
 
-## Profile
-
-Studying at 42 Paris
-
 ## Formations
 
 `2021 - Aujourd'hui`  __Cursus commun 42__     
@@ -36,18 +32,6 @@ Lycée Blaise Pascal, _Clermont-Ferrand_
 `2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
 Lycée Mme de Staël, _Montluçon_
 
-## Compétences informatiques
-
-`Solide` __C__     
-`Solide` __C++__  
-`Solide` __Bash__  
-`Solide` __Python__   
-`Solide` __SQL__  
-`Solide` __HTML__  
-`Correct` __CSS__  
-`Bases` __Ocaml__  
-`Bases` __Prolog__  
-`Bases` __LATEX__  
 
 ## Expériences Professionnelles
 
@@ -78,6 +62,18 @@ Médiation Covid
 — Tri rapide des plateaux  
 — Caisse, Service  
 
+## Compétences informatiques
+
+`Solide` __C__     
+`Solide` __C++__  
+`Solide` __Bash__  
+`Solide` __Python__   
+`Solide` __SQL__  
+`Solide` __HTML__  
+`Correct` __CSS__
+`Correct` __LATEX__  
+`Bases` __Ocaml__  
+`Bases` __Prolog__  
 
 ## Langues
 
