@@ -20,11 +20,8 @@ __Trinity College, Cambridge__
 
 - Sizar
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
+`2016 - 2017` Lycée Mme de Staël, Montluçon
+__Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.
 
 
 ## Awards
