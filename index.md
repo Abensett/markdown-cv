@@ -5,7 +5,7 @@ title: Aimen Bensetti's CV
 ---
 # Bensetti Aimen
 Computer science student  
-![Photo](https://user-images.githubusercontent.com/85625233/189498785-4545d873-f492-4b78-801f-5eee5e476c17.jpg)
+ <img src="https://user-images.githubusercontent.com/85625233/189498785-4545d873-f492-4b78-801f-5eee5e476c17.jpg" width=20% height=20% >
 
 ## Currently
 
@@ -13,63 +13,60 @@ Studying at 42 Paris
 
 ## Formations
 
-`2021 - Aujourd'hui`  _Cursus commun 42_     
-42, Paris
+`2021 - Aujourd'hui`  __Cursus commun 42__     
+42, _Paris_
 
-`Février 2022` _Cambridge C2 Anglais_    
-Paris
+`Février 2022` __Cambridge C2 Anglais__   
+_Paris_
 
-`Décembre 2021` _Formation Udo Tools_  
-Paris
+`Décembre 2021` __Formation Udo Tools__  
+_Paris_
 
-`2018 - 2021`  _Licence de mathématiques option informatique_  
+`2018 - 2021`  __Licence de mathématiques option informatique__  
 UCA, Clermont-Ferrand
 
-`2017 - 2018` _Classe préparatoire MPSI_ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
+`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
+Lycée Blaise Pascal, _Clermont-Ferrand_
 
-Lycée Blaise Pascal, Clermont-Ferrand
-
-`2016 - 2017` _Baccalauréat Série S_, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
-
-Lycée Mme de Staël, Montluçon 
+`2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
+Lycée Mme de Staël, _Montluçon_
 
 ## Expériences Professionnelles
 
-`Janv - Mai 2022`  _Alegria.tech_, Paris  
+`Janv - Mai 2022`  __Alegria.tech__, _Paris_  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
-`Août 2021 - Juin 2022` _Student Pop_, Paris. Missions ponctuelles :
-- Inventaire pour __Belive__ IA stocking  
-- Tests Covid dans les maternelles/primaires pour __Eurofins__  
-- Distribution de Flyers pour __Dejbox__  
+`Août 2021 - Juin 2022` __Student Pop__, Paris. Missions ponctuelles :
+- Inventaire pour _Belive_ IA stocking  
+- Tests Covid dans les maternelles/primaires pour _Eurofins_  
+- Distribution de Flyers pour _Dejbox_  
 
-`Janv, Juin 2021` _Stage professeur de mathématiques_  
+`Janv, Juin 2021` __Stage professeur de mathématiques__, Collège Jules Verne, _Montluçon_  
 Découverte du métier.  
 
-
-`Fév 2021` _Crous_, Clermont-Ferrand 15H  
+`Fév 2021` __Crous__, _Clermont-Ferrand_ 15H  
 Médiation Covid
 
-`Sept 2020 - Sept 2021` _Burger King_, Aubière 24H  
+`Sept 2020 - Sept 2021` __Burger King__, _Aubière_ 24H  
 — Préparation de burgers, desserts, commandes  
 — Plonge, Nettoyage des locaux  
 — Caisse, Drive  
 
-`Juillet - Sept 2019` _Flunch_, Clermont-Ferrand, 35H  
+`Juillet - Sept 2019` __Flunch__, _Clermont-Ferrand_, 35H  
 — Préparation de salades, desserts  
 — Caisse, Service  
 
-`Sept 2018 - Mars 2021` _Plonge restaurant universitaire des Cézeaux_, Aubière, 15H    
+`Sept 2018 - Mars 2021` __Plonge restaurant universitaire des Cézeaux__, _Aubière_, 15H    
 — Tri rapide des plateaux
 — Caisse, Service  
 
 
 ## Langues
 
-`Anglais` _Cambridge_ _C2_, Paris  
+`Anglais` __Cambridge__ __C2__, _Paris_  
 Niveau bilingue écrit comme oral.
 
-`Espagnol` *En apprentissage*  
+`Espagnol` __En apprentissage__  
 Niveau B1.
 
 
