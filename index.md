@@ -44,7 +44,8 @@ Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 `Août 2021 - Juin 2022` __Student Pop__, Paris. Missions ponctuelles :  
 - Inventaire pour _Belive_ IA stocking  
 - Tests Covid dans les maternelles/primaires pour _Eurofins_  
-- Distribution de flyers et de guimauves  pour _Dejbox_  
+- Distribution de flyers et de guimauves  pour _Dejbox_   
+
 `Janv, Juin 2021` __Stage professeur de mathématiques__, Collège Jules Verne, _Montluçon_  
 Découverte du métier.  
 
