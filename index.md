@@ -12,7 +12,7 @@ Studying at 42 Paris
 
 ## Formations
 
-`2021 - Aujourd'hui`  __Cursus commun 42 __.     
+`2021 - Aujourd'hui`  __Cursus commun 42__.     
 *42*, Paris
 
 `Février 2022` _Cambridge C2 Anglais_.   
@@ -34,18 +34,18 @@ Lycée Mme de Staël, Montluçon
 
 ## Expériences Professionnelles
 
-`Janv 2022 - Mai 2022`  _Alegria.tech_, Paris  
+`Janv 2022 - Mai 2022`  __Alegria.tech__, Paris  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
-`août 2021 - août 2022` Missions ponctuelles par le biais de _Student Pop_, Paris.  
-
+`Août 2021 - Juin 2022` Missions ponctuelles par le biais de _Student Pop_, Paris.  
+- Inventaire pour _Belive_ IA stocking
 - Tests Covid dans les maternelles/primaires pour _Eurofins_
 - Distribution de Flyers pour _Dejbox_
 
 
-`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
+`Janv, Juin 2021` __Stage professeur de mathématiques__   
 
-*Lycée Blaise Pascal*, Clermont-Ferrand
+*Lycée Blaise Pascal*, :Clermont-Ferrand:
 
 `2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
 
@@ -53,7 +53,7 @@ Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
 ## Langues
 
-`Anglais` *_Cambridge C2_, Paris*  
+`Anglais` *_Cambr cidge C2_, Paris*  
 Niveau bilingue écrit comme oral.
 
 `Espagnol` *En apprentissage*
