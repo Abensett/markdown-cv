@@ -65,10 +65,10 @@ Médiation Covid
 
 ## Langues
 
-`Anglais` *_Cambridge C2_, Paris*  
+`Anglais` _Cambridge C2_, Paris
 Niveau bilingue écrit comme oral.
 
-`Espagnol` *En apprentissage*
+`Espagnol` *En apprentissage*  
 Niveau B1.
 
 
