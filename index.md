@@ -75,8 +75,17 @@ Niveau bilingue écrit comme oral.
 Niveau B1.
 
 
+## Compétences informatiques
 
-
+`Solide` __C__    
+`Solide` __C++__
+`Solide` __Bash__ 
+`Solide` __Python__ 
+`Solide` __SQL__  
+`Solide` __HTML__
+`Correct` __CSS__  
+`Bases` __Ocaml__ 
+`Bases` __Prolog__ 
 
 
 
