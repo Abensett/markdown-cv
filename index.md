@@ -39,7 +39,7 @@ Lycée Mme de Staël, _Montluçon_
 ## Expériences Professionnelles
 
 `Janv - Mai 2022`  __Alegria.tech__, _Paris_  
-Maker Udo : Développement d'un ERP en équipe, version web et mobile.
+Maker Udo : Développement d'un ERP en équipe, version web et mobile  
 
 `Août 2021 - Juin 2022` __Student Pop__, Paris. Missions ponctuelles :  
 — Inventaire pour _Belive_ IA stocking  
