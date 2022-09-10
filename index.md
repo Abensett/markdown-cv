@@ -1,10 +1,11 @@
 ---
 layout: cv
+
 title: Aimen Bensetti's CV
 ---
 # Bensetti Aimen
-Computer science student
-
+Computer science student  
+![Photo](https://user-images.githubusercontent.com/85625233/189498785-4545d873-f492-4b78-801f-5eee5e476c17.jpg)
 
 ## Currently
 
