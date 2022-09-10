@@ -29,10 +29,10 @@ Université Paris-Saclay, _Paris_
 `2018 - 2021`  __Licence de mathématiques option informatique__  
 UCA, _Clermont-Ferrand_
 
-`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
+`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique  
 Lycée Blaise Pascal, _Clermont-Ferrand_
 
-`2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
+`2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique  
 Lycée Mme de Staël, _Montluçon_
 
 
@@ -47,7 +47,7 @@ Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 — Distribution de flyers et de guimauves  pour _Dejbox_   
 
 `Janv, Juin 2021` __Stage professeur de mathématiques__, Collège Jules Verne, _Montluçon_  
-Découverte du métier.  
+Découverte du métier  
 
 `Fév 2021` __Crous__, _Clermont-Ferrand_ 15H  
 Médiation Covid
@@ -81,10 +81,10 @@ Médiation Covid
 ## Langues
 
 `Anglais` __Cambridge__ __C2__, _Paris_  
-Niveau bilingue écrit comme oral.
+Niveau bilingue écrit comme oral  
 
 `Espagnol` __En apprentissage__  
-Niveau B1.
+Niveau B1  
 
 
 
