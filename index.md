@@ -4,12 +4,14 @@ layout: cv
 title: Aimen Bensetti's CV
 ---
 # Bensetti Aimen
-Computer science student  
+Etudiant en informatique à 42
+
+![Photo](https://user-images.githubusercontent.com/85625233/189499457-b2a79487-4ff8-4616-8221-56a451171850.jpg)
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+ <a href="[https://github.com/Abensett](Github)"></a>
 </div>
+
 ## Currently
 
 Studying at 42 Paris
