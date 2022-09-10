@@ -62,7 +62,7 @@ Médiation Covid
 — Caisse, Service  
 
 `Sept 2018 - Mars 2021` __Plonge restaurant universitaire des Cézeaux__, _Aubière_, 15H    
-— Tri rapide des plateaux
+— Tri rapide des plateaux  
 — Caisse, Service  
 
 
