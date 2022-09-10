@@ -37,10 +37,10 @@ Lycée Mme de Staël, Montluçon
 `Janv - Mai 2022`  _Alegria.tech_, Paris  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile.
 
-`Août 2021 - Juin 2022` Missions ponctuelles par le biais de _Student Pop_, Paris.  
-- Inventaire pour __Belive__ IA stocking
-- Tests Covid dans les maternelles/primaires pour __Eurofins__
-- Distribution de Flyers pour __Dejbox__
+`Août 2021 - Juin 2022` _Student Pop_, Paris.  
+- Inventaire pour __Belive__ IA stocking  
+- Tests Covid dans les maternelles/primaires pour __Eurofins__  
+- Distribution de Flyers pour __Dejbox__  
 
 `Janv, Juin 2021` _Stage professeur de mathématiques_  
 Découverte du métier.  
@@ -58,10 +58,14 @@ Médiation Covid
 — Préparation de salades, desserts  
 — Caisse, Service  
 
+`Sept 2018 - Mars 2021` _Plonge restaurant universitaire des Cézeaux_, Aubière, 15H    
+— Tri rapide des plateaux
+— Caisse, Service  
+
 
 ## Langues
 
-`Anglais` *_Cambr cidge C2_, Paris*  
+`Anglais` *_Cambridge C2_, Paris*  
 Niveau bilingue écrit comme oral.
 
 `Espagnol` *En apprentissage*
