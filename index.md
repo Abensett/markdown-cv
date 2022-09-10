@@ -36,6 +36,19 @@ Lycée Blaise Pascal, _Clermont-Ferrand_
 `2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
 Lycée Mme de Staël, _Montluçon_
 
+## Compétences informatiques
+
+`Solide` __C__     
+`Solide` __C++__  
+`Solide` __Bash__  
+`Solide` __Python__   
+`Solide` __SQL__  
+`Solide` __HTML__  
+`Correct` __CSS__  
+`Bases` __Ocaml__  
+`Bases` __Prolog__  
+`Bases` __LATEX__  
+
 ## Expériences Professionnelles
 
 `Janv - Mai 2022`  __Alegria.tech__, _Paris_  
@@ -75,17 +88,6 @@ Niveau bilingue écrit comme oral.
 Niveau B1.
 
 
-## Compétences informatiques
-
-`Solide` __C__    
-`Solide` __C++__
-`Solide` __Bash__ 
-`Solide` __Python__ 
-`Solide` __SQL__  
-`Solide` __HTML__
-`Correct` __CSS__  
-`Bases` __Ocaml__ 
-`Bases` __Prolog__ 
 
 
 
