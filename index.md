@@ -14,7 +14,7 @@ Studying at 42 Paris
 ## Formations
 
 `2021 - Aujourd'hui`  _Cursus commun 42_     
-*42*, Paris
+42, Paris
 
 `Février 2022` _Cambridge C2 Anglais_    
 Paris
@@ -66,7 +66,7 @@ Médiation Covid
 
 ## Langues
 
-`Anglais` _Cambridge_ _C2_, Paris
+`Anglais` _Cambridge_ _C2_, Paris  
 Niveau bilingue écrit comme oral.
 
 `Espagnol` *En apprentissage*  
