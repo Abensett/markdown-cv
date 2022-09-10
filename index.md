@@ -3,12 +3,12 @@ layout: cv
 
 title: Aimen Bensetti's CV
 ---
-## ![photo50%](https://user-images.githubusercontent.com/85625233/189499998-035e738f-495c-458c-97b7-8e4d97df94b2.jpg)
+## 
 
 # Bensetti Aimen
 Etudiant en informatique à 42
-
- <div id="webaddress"> bensettiaimen@mailo.com |
+![photo50%](https://user-images.githubusercontent.com/85625233/189499998-035e738f-495c-458c-97b7-8e4d97df94b2.jpg)
+ <div id="webaddress"> bensettiaimen@mailo.com | 07.68.14.63.61 |
  <a href="https://github.com/Abensett">Github</a>
 </div>
 
