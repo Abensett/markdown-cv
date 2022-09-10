@@ -12,62 +12,48 @@ Studying at 42 Paris
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021 - Aujourd'hui` Cursus commun 42.  
+*42*, Paris. 
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2018 - 2021` Licence de mathématiques option informatique.  
+*UCA*, Clermont-Ferrand.  
 
-- Sizar
+`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
 
-`2016 - 2017` Lycée Mme de Staël, Montluçon  
-__Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.
+*Lycée Blaise Pascal*, Clermont-Ferrand
 
+`2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
 
-## Awards
+*Lycée Mme de Staël*, Montluçon 
 
-`2012`
-President, *Royal Society*, London, UK
+## Education
 
-Associate, *French Academy of Science*, Paris, France
+`2021 - Aujourd'hui` Cursus commun 42.  
+*42*, Paris. 
 
+`2018 - 2021` Licence de mathématiques option informatique.  
+*UCA*, Clermont-Ferrand.  
 
+`2017 - 2018` __Classe préparatoire MPSI__ Mathématiques Physique et Science de l’ingénieur spécialité informatique.  
 
-## Publications
+*Lycée Blaise Pascal*, Clermont-Ferrand
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+`2016 - 2017` __Baccalauréat Série S__, mention Très Bien Euro-anglais. Option Informatique et science du numérique.  -
 
-### Journals
+*Lycée Mme de Staël*, Montluçon 
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## Langues
 
-`1669`
-Lectiones opticæ.
+`Anglais` *_Cambridge C2_, Paris*  
+Niveau bilingue écrit comme oral.
 
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`Espagnol` *En apprentissage*
+Niveau B1.
 
 
 
-<!-- ### Footer
 
-Last updated: May 2013 -->
+
+
 
 
