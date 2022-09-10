@@ -57,7 +57,7 @@ Médiation Covid
 — Plonge, Nettoyage des locaux  
 — Caisse, Drive  
 
-`Juillet - Sept 2019` __Flunch__, _Clermont-Ferrand_, 35H  
+`Juil - Sept 2019` __Flunch__, _Clermont-Ferrand_, 35H  
 — Préparation de salades, desserts  
 — Caisse, Service  
 
