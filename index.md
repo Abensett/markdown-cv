@@ -14,11 +14,11 @@ Etudiant en informatique à 42
 
 ## Comment je travaille ?
 
-Synthèse / Communication / Documentation
+**Synthèse** / **Communication** / **Documentation**
 
 ## Mes principes
 
-Apprentissage / Action / Amélioration
+**Apprentissage** / **Action** / **Amélioration**
 
 ## Formations
 
