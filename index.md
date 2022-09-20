@@ -1,7 +1,7 @@
 ---
 layout: cv
 
-title: Aimen Bensetti's CV
+title: Aimen Bensetti
 ---
 ## ![photo50%](https://user-images.githubusercontent.com/85625233/189499998-035e738f-495c-458c-97b7-8e4d97df94b2.jpg)
 
