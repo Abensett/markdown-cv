@@ -12,6 +12,14 @@ Etudiant en informatique à 42
  <a href="https://github.com/Abensett">Github</a>
 </div>
 
+## Comment je travaille ?
+
+Synthèse / Communication / Documentation
+
+## Mes principes
+
+Apprentissage / Détermination / Amélioration
+
 ## Formations
 
 `2021 - Aujourd'hui`  __Cursus commun 42__     
