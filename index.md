@@ -18,7 +18,7 @@ Synthèse / Communication / Documentation
 
 ## Mes principes
 
-Apprentissage / Détermination / Amélioration
+Apprentissage / Action / Amélioration
 
 ## Formations
 
