@@ -13,11 +13,9 @@ Etudiant en informatique à 42
 </div>
 
 ## Comment je travaille ?
-
 **Synthèse** / **Communication** / **Documentation**
 
 ## Mes principes
-
 **Apprentissage** / **Action** / **Amélioration**
 
 ## Formations
@@ -28,7 +26,7 @@ Etudiant en informatique à 42
 `Fév 2022` __Cambridge C2 Anglais__   
 _Paris_
 
-`Déc 2021` __Formation Udo Tools__  
+`Déc 2021` __Formation No-Code Udo Tools__  
 _Paris_
 
 `2021` __Cours M2 LEAD__ Law, Entrepreneurship and Digital  
