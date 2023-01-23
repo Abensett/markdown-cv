@@ -29,9 +29,6 @@ Etudiant en informatique à 42 Paris
 `Fév 2022` __Cambridge C2 Anglais__   
 _Paris_
 
-`Déc 2021` __Formation No-Code Udo Tools__  
-_Paris_
-
 `2021` __Cours M2 LEAD__ Law, Entrepreneurship and Digital  
 Université Paris-Saclay, _Paris_  
 
@@ -48,7 +45,7 @@ Lycée Mme de Staël, _Montluçon_
 ## Expériences Professionnelles
 `Oct 2022 - Today`  __RATP__, _Paris_   
 Service Client  
-`Janv - Mai 2022`  __Alegria.tech__, _Paris_  
+`Dec 2021 - Juin 2022`  __Alegria.tech__, _Paris_  
 Maker Udo : Développement d'un ERP en équipe, version web et mobile  
 — Intégration d'API  
 — Traitement bases de données en PostgreSQL  
