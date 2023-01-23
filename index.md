@@ -4,14 +4,16 @@ layout: cv
 title: Aimen Bensetti
 ---
 
+  
 <img src="https://user-images.githubusercontent.com/85625233/214038695-d311a1fa-8df6-4b2a-8f82-6a1f62f36521.png" width="160">
 
 # Bensetti Aimen
-Etudiant en informatique à 42
+Etudiant en informatique à 42 Paris
 
- <div id="webaddress"> bensettiaimen@mailo.com | 07.68.14.63.61 |
- <a href="https://github.com/Abensett">Github</a>
-</div>
+ <div id="webaddress"> bensettiaimen@mailo.com | 07.68.14.63.61 | 
+ <a href="https://github.com/Abensett">GitHub</a> |  <a href="https://www.linkedin.com/in/Abensett">LinkedIn</a>
+
+</div> 
 
 ## Comment je travaille ?
 **Synthèse** / **Communication** / **Documentation**
