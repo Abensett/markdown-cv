@@ -4,7 +4,7 @@ layout: cv
 title: Aimen Bensetti
 ---
 
-<img src="https://user-images.githubusercontent.com/85625233/214038695-d311a1fa-8df6-4b2a-8f82-6a1f62f36521.png" width="200">
+<img src="https://user-images.githubusercontent.com/85625233/214038695-d311a1fa-8df6-4b2a-8f82-6a1f62f36521.png" width="160">
 
 # Bensetti Aimen
 Etudiant en informatique à 42
